@@ -3,7 +3,7 @@
   <td>
 <p align="center">
   <samp>
-    I'm a seasoned Frontend developer with 9 years of experience<br/>
+    Frontend developer with 9 years of experience<br/>
     <a href="https://josephanson.com">Website</a> .
     <a href="mailto:me@josephanson.com">Email</a> 
   </samp>
